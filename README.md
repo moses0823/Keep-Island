@@ -42,15 +42,48 @@
 - 某些非預期的系統錯誤 UI（如狀態列 glitch）可能導致顯示中斷，但重新啟動即可恢復
 
 ---
+# Dynamic Island Persistence Utility
 
-## TODO
-
-- English README  
-- 更多 App 語言版本
+This utility allows **Dynamic Island** to stay persistent on iPhones that **do not natively support Dynamic Island**, provided that Dynamic Island has been enabled through various methods.  
+It is designed for devices using **Dynamic Cow, Misaka X, Misaka26**, or other similar tools to enable Dynamic Island.
 
 ---
 
-## English README
+## Features
 
-English version will be provided later.
+- Keep third-party enabled Dynamic Island persistent  
+- Does not modify system behavior or inject into SpringBoard  
+- No jailbreak required  
+- Low resource usage; once running, it has minimal impact on performance
+
+---
+
+## Compatibility
+
+- iOS 16.0 – iOS 26.1 & 26.2 beta 1  
+- Applicable to iPhones with Dynamic Island enabled via Dynamic Cow, Misaka X, or Misaka26  
+- Devices with native Dynamic Island can launch this app, but practical use is limited
+
+---
+
+## Installation
+
+### 📌 TrollStore
+1. Download the IPA file: [Releases](https://github.com/moses0823/Keep-Island/releases)  
+2. Install the `.ipa` using TrollStore  
+3. Open the app to use
+
+### 📌 Sideload (AltStore / Sideloadly)
+1. Download the IPA file: [Releases](https://github.com/moses0823/Keep-Island/releases)  
+2. Install the `.ipa` using a sideload tool  
+3. Launch the app and complete the setup
+
+---
+
+## Known Issues
+
+- If the Dynamic Island display area is modified by other tweaks, you may need to restart this app  
+- Certain unexpected system UI glitches (e.g., status bar glitches) may interrupt the display, but restarting the app usually resolves the issue
+---
+
 
