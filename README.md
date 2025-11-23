@@ -33,11 +33,13 @@
 
 ### 📌 TrollStore
 1.下載IPA檔案：[Releases](https://github.com/moses0823/Keep-Island/releases)
+
 2. 將 `.ipa` 透過 TrollStore 安裝  
 3. 打開 App 即可使用
 
 ### 📌 Sideload（AltStore／Sideloadly）
 1.下載IPA檔案：[Releases](https://github.com/moses0823/Keep-Island/releases)
+
 2. 使用 sideload 工具安裝 `.ipa`  
 3. 啟動後完成設定即可
 
