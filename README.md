@@ -31,10 +31,6 @@
 
 ## 安裝
 
-### 📌 Misaka / Misaka26
-1. 在 Misaka 資源庫中搜尋本工具  
-2. 點選安裝並套用
-
 ### 📌 TrollStore
 1. 將 `.ipa` 透過 TrollStore 安裝  
 2. 打開 App 即可使用
